@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438291826954",
+    "project_id": "lastore-29a12",
+    "storage_bucket": "lastore-29a12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438291826954:android:d2bb70d187b3c4a1cd52f3",
+        "android_client_info": {
+          "package_name": "com.example.lastore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQwQ7uqoIatlGmglkgK7NVQtQ3ycUfGAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
