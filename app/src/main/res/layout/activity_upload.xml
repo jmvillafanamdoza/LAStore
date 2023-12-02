@@ -28,7 +28,7 @@
             android:layout_marginStart="10dp"
             android:layout_marginEnd="10dp"
             android:gravity="start|center_vertical"
-            android:textColor="@color/lavender"/>
+            android:textColor="@color/yellow"/>
 
         <EditText
             android:layout_width="match_parent"
@@ -41,7 +41,7 @@
             android:layout_marginEnd="10dp"
             android:hint="Enter operator"
             android:gravity="start|center_vertical"
-            android:textColor="@color/lavender"/>
+            android:textColor="@color/yellow"/>
 
         <EditText
             android:layout_width="match_parent"
@@ -54,7 +54,7 @@
             android:layout_marginEnd="10dp"
             android:hint="Enter location"
             android:gravity="start|center_vertical"
-            android:textColor="@color/lavender"/>
+            android:textColor="@color/yellow"/>
 
         <EditText
             android:layout_width="match_parent"
