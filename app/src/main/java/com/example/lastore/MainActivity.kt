@@ -30,5 +30,12 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
             finish()
         })
+        binding.recyclerviewbtn.setOnClickListener(View.OnClickListener{
+            val intent = Intent(this@MainActivity, UserlistActivity::class.java)
+            startActivity(intent)
+            finish()
+        })
+
+
     }
 }
